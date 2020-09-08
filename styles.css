@@ -1,0 +1,42 @@
+/**************************TAG SELECTORS*********************/
+body:hover {
+  background-color: ghostwhite;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 7px;
+  width: 5%;
+}
+
+h3 {
+  background-color: white;
+}
+
+article {
+  background-color: white;
+  padding: 0px;
+  text-align: center;
+  font-size: 20px;
+  color: black;
+}
+
+/**************************CLASS SELECTORS*********************/
+.circular {
+  border-radius: 100%;
+}
+
+/**************************ID SELECTORS*********************/
+#hr {
+  border-style: groove;
+  border-color: gray;
+  border-width: 1px;
+  width: 100%;
+}
+#h4 {
+  background-color: white;
+  text-align: center;
+  color: black;
+}
